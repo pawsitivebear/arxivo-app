@@ -4,9 +4,13 @@ Arvixo-app is an app for consulting the database of Arxiv.com using their API, f
 
 This app is free to use by anyone who wants to use it and finds it useful, if you find it useful and want to support the development you can donate [here](https://www.github.com)
 
-The app uses the arxiv API to obtain the information and is developed using Python and [kivy](https://www.kivy.org), you can also learn and use kivy to develop your applications for multiple platforms, is easy to use and powerful.
+### DEVELOPMENT
 
-### Markdown
+This app uses:
+ -  python
+ -  [kivy](https://www.kivy.org) | you can also learn and use kivy to develop your applications for multiple platforms, is easy and powerful.
+ -  feedparser (python library used for pasing the arxiv API)
+ -  [Arxiv.com](https://www.arxiv.com) API
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
