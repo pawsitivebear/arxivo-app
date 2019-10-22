@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## ARXIVO-APP
 
-You can use the [editor on GitHub](https://github.com/pawsitivebear/arxivo-app/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Arvixo-app is an app for consulting the database of Arxiv.com using their API, for now we have the app for Android, you can download it in the playstore or [here](https://www.google.com/test)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This app is free to anyone who wants to use it and finds it useful, if you find it usefull and want to support the development you can donate [here](https://www.test.com)
+
+The app uses the arxiv API to obtain the information and is develped using Python and [kivy](www.kivy.org), you can also learn and use kivy to develop your application for multiple plataforms.
 
 ### Markdown
 
