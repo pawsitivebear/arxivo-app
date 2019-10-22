@@ -7,10 +7,10 @@ This app is free to use by anyone who wants to use it and finds it useful, if yo
 ### DEVELOPMENT
 
 This app uses:
- -  python
- -  [kivy](https://www.kivy.org) -> you can learn kivy to develop your applications for multiple platforms, is easy and powerful.
- -  feedparser (python library used for pasing the arxiv API)
- -  [Arxiv.com](https://www.arxiv.org) API
+ -  **python**
+ -  **[kivy]**(https://www.kivy.org) -> you can learn kivy to develop your applications for multiple platforms, is easy and powerful.
+ -  **feedparser** (python library used for pasing the arxiv API)
+ -  **[Arxiv.com]**(https://www.arxiv.org) API
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
