@@ -8,7 +8,7 @@ This app is free to use by anyone who wants to use it and finds it useful, if yo
 ## 1
 [![cat](/image/donate.png)!](https://www.google.com)
 ## 2
-![cat](/image/donate.png)!(https://www.google.com)
+![cat](/image/donate.png)(https://www.google.com)
 
 ## 3
 
