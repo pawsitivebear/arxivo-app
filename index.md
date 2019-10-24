@@ -4,9 +4,10 @@ Arvixo-app is an app for consulting the database of Arxiv.com using their API, f
 
 This app is free to use by anyone who wants to use it and finds it useful, if you find it useful and want to support the development you can donate [here](https://www.github.com)
 
-<img src="/image/donate.png" alt="donate">
 [cat](/image/donate.png)
+## 1
 [[cat](/image/donate.png)](https://www.google.com)
+## 2
 [cat](/image/donate.png)(https://www.google.com)
 
 <button name="button">Click me</button>
