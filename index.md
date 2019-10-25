@@ -5,23 +5,6 @@ Arvixo-app is an app for consulting the database of Arxiv.com using their API, f
 This app is free to use by anyone who wants to use it and finds it useful, if you find it useful and want to support the development you can donate [here](https://www.github.com)
 
 [![cat](/image/donate.png)](https://www.google.com)
-## 1
-![cat](/image/donate.png)(https://www.google.com)
-## 2
-
-![cat](/image/donate.png)[ ](https://www.google.com)
-
-## 3
-
-![GitHub Logo](/image/donate.png)
-Format: ![Alt Text](https://www.google.com)
-
-
-## 4
-
-![GitHub Logo](/image/donate.png) Format: ![Alt Text](www.google.com)
-
-<button name="button">Click me</button>
 
 ### DEVELOPMENT
 
@@ -31,6 +14,8 @@ This app uses:
  -  **Feedparser** (python library used for pasing the arxiv API)
  -  **[Arxiv.com](https://www.arxiv.org)** API
 
+
+DELETE
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
