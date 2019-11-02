@@ -1,12 +1,8 @@
----
-title: [logo](/image/logo.png)Arxivo-App
----
-
 ## ARXIVO-APP
 
 Arvixo-app is an app for consulting the database of Arxiv.com using their API, for now we have the app for Android, you can download it in the [playstore](https//playstore.com/) or [here](https://www.github.com)
 
-This app is free to use by anyone who wants to use it and finds it useful, if you find it useful and want to support the development you can donate here --> ![donate](/image/donate.png)]!(https://donorbox.org/pawsitivebear-arxivo)
+This app is free to use by anyone who wants to use it and finds it useful, if you find it useful and want to support the development you can donate here --> ![donate](/image/donate.png)](https://donorbox.org/pawsitivebear-arxivo)
 
 ### DEVELOPMENT
 
