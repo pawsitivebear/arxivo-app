@@ -9,11 +9,8 @@ This app is free to use by anyone who wants to use it and finds it useful, if yo
 
 This app uses:
  -  **Python**
- -  **[Kivy](https://www.kivy.org)** -> you can learn kivy to develop your applications for multiple platforms, is easy and powerful.
+ -  **[Kivy](https://www.kivy.org)** -> you can learn kivy to develop your applications for multiple platforms, is easy and powerful
  -  **Feedparser** (python library used for pasing the arxiv API)
  -  **[Arxiv.com](https://www.arxiv.org)** API
  
- 
- ***Delete***
- 
- [here](https://www.github.com)
+
